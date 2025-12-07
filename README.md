@@ -32,5 +32,5 @@ This analysis helps insurance companies:
 Add screenshots inside the `screenshots/` folder and reference them here:
 
 ![Dashboard](screenshots/Dashboard.png)  
-![Company Needs Improvement](screenshots/Company Needs Improvement.png)
-![Company Trend Over Years](screenshots/Company Trend Over Years.png)
+![Company Needs Improvement](screenshots/CompanyNeedsImprovement.png)
+![Company Trend Over Years](screenshots/CompanyTrendOverYears.png)
