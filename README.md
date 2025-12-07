@@ -35,5 +35,4 @@ Add screenshots inside the `screenshots/` folder and reference them here:
 ![Company-Needs-Improvement](screenshots/Company-Needs-Improvement.png) 
 ![Company-Trends-Over-Years](screenshots/Company-Trends-Over-Years.png) 
 
-![Company Needs Improvement](screenshots/CompanyNeedsImprovement.png)
-![Company Trend Over Years](screenshots/CompanyTrendOverYears.png)
+
